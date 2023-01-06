@@ -1,0 +1,24 @@
+{
+  "name": "risk_module",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "try_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@curvefi/api": "^2.24.4",
+    "ccxt": "^2.5.35",
+    "coingecko-api": "^1.0.10",
+    "coingecko-api-v3": "^0.0.15",
+    "dotenv": "^16.0.3",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.4"
+  }
+}
